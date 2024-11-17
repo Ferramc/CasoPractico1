@@ -25,3 +25,17 @@ La cafetería CITYBLEND tiene interés en el funcionamiento operativo de sus suc
 
 3.- Las categorías de productos que mejores ingresos representan entre las tres sucursales son el café, el té y la repostería. 
 
+
+![Captura de pantalla 2024-11-16 210237](https://github.com/user-attachments/assets/eb48713f-fa2e-4c94-ba57-01594caa616e)
+
+
+
+
+
+
+
+
+
+
+
+
