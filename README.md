@@ -23,11 +23,12 @@ La cafetería CITYBLEND tiene interés en el funcionamiento operativo de sus suc
 
 2.- Dentro de las categorías del café y té, los tres productos más vendidos dentro de las tres sucursales son: Barista Espresso, Gourmet Brewed Coffee y Brewed Chai Tea.
 
-3.- Las categorías de productos que mejores ingresos representan entre las tres sucursales son el café, el té y la repostería. 
+3.- Las categorías de productos que mejores ingresos representan entre las tres sucursales son el café, el té y la repostería, donde los productos más rentables son las variedades de café.
 
 
 ![Captura de pantalla 2024-11-16 210237](https://github.com/user-attachments/assets/eb48713f-fa2e-4c94-ba57-01594caa616e)
 
+![Captura de pantalla 2024-11-16 210755](https://github.com/user-attachments/assets/b3c5e644-435a-4f9f-9f88-fec13afaa01b)
 
 
 
