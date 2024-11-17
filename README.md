@@ -6,7 +6,7 @@ En este proyecto se analiza una base de datos mediante el uso de Microsoft Excel
 
 La base de datos antes mencionada pertenece a un establecimiento del giro hostelero, es decir, una cafetería, la cual lleva por nombre CITYBLEND y está ubicada en la ciudad de Nueva York.
 
-La cafetería CITYBLEND tiene interés en el funcionamiento operativo de sus sucursales, es por esto que cuenta con una base de datos donde se han recopilado datos sobre las transacciones durante seis meses consecutivos, desde enero hasta junio, todo esto ocn información de sus tres sucursales distintas: Astoria, Lower Manhattan y Hell's Kitchen.
+La cafetería CITYBLEND tiene interés en el funcionamiento operativo de sus sucursales, es por esto que cuenta con una base de datos donde se han recopilado datos sobre las transacciones durante seis meses consecutivos, desde enero hasta junio, todo esto con información de sus tres sucursales distintas: Astoria, Lower Manhattan y Hell's Kitchen.
 
 ### Objetivos específicos: 
 
